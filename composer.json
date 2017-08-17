@@ -1,0 +1,14 @@
+{
+    "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/no-trailing-comma",
+    "description": "Placeholder package for clean diffs in composer.json.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Kudwien",
+            "email": "sun@netzstrategen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
