@@ -1,0 +1,20 @@
+{
+  "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz-no-trailing-comma",
+  "version": "1.1.0",
+  "description": "Placeholder package for clean diffs in package.json.",
+  "keywords": ["npm", "package", "json", "package.json", "diff", "dev", "development"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/no-trailing-comma.git"
+  },
+  "author": "Daniel Kudwien <sun@netzstrategen.com> (https://netzstrategen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/no-trailing-comma/issues"
+  },
+  "homepage": "https://github.com/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/no-trailing-comma"
+}
